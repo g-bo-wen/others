@@ -20,4 +20,9 @@ public class ba {
     public void setStr(String str) {
         this.str = str;
     }
+
+    public static void main(String[] args) {
+        double x = 0.0;
+        System.out.println(x == 0.0);
+    }
 }
